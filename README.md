@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shushant49
-- 👀 I’m interested in Java learning and project management
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Java learning, ASP.net and project management
+- 🌱 I’m also working as a .Net Developer
 - 📫 How to reach me : khanalshushant49@gmail.com
 
 <!---
